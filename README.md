@@ -1,7 +1,7 @@
-![logo](https://github.com/mehulpandya096/mehulpandya096/blob/main/JsBg.jpg)
+
 <h1 align="center">Hi 👋, I'm Mehul Pandya</h1>
 <h3 align="center">A passionate frontend developer 🖥️</h3>
-<img aling="right" alt="codeing" width="400" src ="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" >
+<img aling="right" alt="codeing" width="300" src ="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" >
 
 <p align="left"> <a href="https://twitter.com/mehulpandiya" target="blank"><img src="https://img.shields.io/twitter/follow/mehulpandiya?logo=twitter&style=for-the-badge" alt="mehulpandiya" /></a> </p>
 
